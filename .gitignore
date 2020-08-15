@@ -1,2 +1,5 @@
 *.txt
 cifar-10-batches-py/
+dataset/
+common/
+*.py
